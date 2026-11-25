@@ -1,0 +1,83 @@
+[
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "r0",
+  "overrides": [
+   "lambda_safe=0.0",
+   "nbr_radius=0"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "r3704",
+  "overrides": [
+   "lambda_safe=0.0",
+   "nbr_radius=3704"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "r9260",
+  "overrides": [
+   "lambda_safe=0.0",
+   "nbr_radius=9260"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "r0",
+  "overrides": [
+   "lambda_safe=0.0",
+   "nbr_radius=0"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "r3704",
+  "overrides": [
+   "lambda_safe=0.0",
+   "nbr_radius=3704"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "r9260",
+  "overrides": [
+   "lambda_safe=0.0",
+   "nbr_radius=9260"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "r0",
+  "overrides": [
+   "lambda_safe=0.0",
+   "nbr_radius=0"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "r3704",
+  "overrides": [
+   "lambda_safe=0.0",
+   "nbr_radius=3704"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "r9260",
+  "overrides": [
+   "lambda_safe=0.0",
+   "nbr_radius=9260"
+  ]
+ }
+]

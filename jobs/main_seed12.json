@@ -1,0 +1,922 @@
+[
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.0"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.025"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.05"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.1"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.2"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.0"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.025"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.05"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.1"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.2"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.0"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.025"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.05"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.1"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.2"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.0"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.025"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.05"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.1"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.2"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.0"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.025"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.05"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.1"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.2"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "mrgtraj",
+  "seed": 1
+ },
+ {
+  "dataset": "GOT",
+  "model": "mrgtraj",
+  "seed": 1
+ },
+ {
+  "dataset": "KIB",
+  "model": "mrgtraj",
+  "seed": 1
+ },
+ {
+  "dataset": "RWA",
+  "model": "mrgtraj",
+  "seed": 1
+ },
+ {
+  "dataset": "ESB",
+  "model": "mrgtraj",
+  "seed": 1
+ },
+ {
+  "dataset": "ORN",
+  "model": "mstformer",
+  "seed": 1
+ },
+ {
+  "dataset": "ORN",
+  "model": "aisformer",
+  "seed": 1
+ },
+ {
+  "dataset": "ORN",
+  "model": "stmgcn",
+  "seed": 1
+ },
+ {
+  "dataset": "ORN",
+  "model": "gstgan",
+  "seed": 1
+ },
+ {
+  "dataset": "ORN",
+  "model": "dgcntf",
+  "seed": 1
+ },
+ {
+  "dataset": "GOT",
+  "model": "mstformer",
+  "seed": 1
+ },
+ {
+  "dataset": "GOT",
+  "model": "aisformer",
+  "seed": 1
+ },
+ {
+  "dataset": "GOT",
+  "model": "stmgcn",
+  "seed": 1
+ },
+ {
+  "dataset": "GOT",
+  "model": "gstgan",
+  "seed": 1
+ },
+ {
+  "dataset": "GOT",
+  "model": "dgcntf",
+  "seed": 1
+ },
+ {
+  "dataset": "KIB",
+  "model": "mstformer",
+  "seed": 1
+ },
+ {
+  "dataset": "KIB",
+  "model": "aisformer",
+  "seed": 1
+ },
+ {
+  "dataset": "KIB",
+  "model": "stmgcn",
+  "seed": 1
+ },
+ {
+  "dataset": "KIB",
+  "model": "gstgan",
+  "seed": 1
+ },
+ {
+  "dataset": "KIB",
+  "model": "dgcntf",
+  "seed": 1
+ },
+ {
+  "dataset": "RWA",
+  "model": "mstformer",
+  "seed": 1
+ },
+ {
+  "dataset": "RWA",
+  "model": "aisformer",
+  "seed": 1
+ },
+ {
+  "dataset": "RWA",
+  "model": "stmgcn",
+  "seed": 1
+ },
+ {
+  "dataset": "RWA",
+  "model": "gstgan",
+  "seed": 1
+ },
+ {
+  "dataset": "RWA",
+  "model": "dgcntf",
+  "seed": 1
+ },
+ {
+  "dataset": "ESB",
+  "model": "mstformer",
+  "seed": 1
+ },
+ {
+  "dataset": "ESB",
+  "model": "aisformer",
+  "seed": 1
+ },
+ {
+  "dataset": "ESB",
+  "model": "stmgcn",
+  "seed": 1
+ },
+ {
+  "dataset": "ESB",
+  "model": "gstgan",
+  "seed": 1
+ },
+ {
+  "dataset": "ESB",
+  "model": "dgcntf",
+  "seed": 1
+ },
+ {
+  "dataset": "ORN",
+  "model": "sstgcnn",
+  "seed": 1
+ },
+ {
+  "dataset": "GOT",
+  "model": "sstgcnn",
+  "seed": 1
+ },
+ {
+  "dataset": "KIB",
+  "model": "sstgcnn",
+  "seed": 1
+ },
+ {
+  "dataset": "RWA",
+  "model": "sstgcnn",
+  "seed": 1
+ },
+ {
+  "dataset": "ESB",
+  "model": "sstgcnn",
+  "seed": 1
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 1
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 1
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 1
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 1
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 1
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 1
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 1
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 1
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 1
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 1
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.0"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.025"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.05"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.1"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.2"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.0"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.025"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.05"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.1"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.2"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.0"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.025"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.05"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.1"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.2"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.0"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.025"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.05"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.1"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.2"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.0"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.025"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.05"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.1"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.2"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "mrgtraj",
+  "seed": 2
+ },
+ {
+  "dataset": "GOT",
+  "model": "mrgtraj",
+  "seed": 2
+ },
+ {
+  "dataset": "KIB",
+  "model": "mrgtraj",
+  "seed": 2
+ },
+ {
+  "dataset": "RWA",
+  "model": "mrgtraj",
+  "seed": 2
+ },
+ {
+  "dataset": "ESB",
+  "model": "mrgtraj",
+  "seed": 2
+ },
+ {
+  "dataset": "ORN",
+  "model": "mstformer",
+  "seed": 2
+ },
+ {
+  "dataset": "ORN",
+  "model": "aisformer",
+  "seed": 2
+ },
+ {
+  "dataset": "ORN",
+  "model": "stmgcn",
+  "seed": 2
+ },
+ {
+  "dataset": "ORN",
+  "model": "gstgan",
+  "seed": 2
+ },
+ {
+  "dataset": "ORN",
+  "model": "dgcntf",
+  "seed": 2
+ },
+ {
+  "dataset": "GOT",
+  "model": "mstformer",
+  "seed": 2
+ },
+ {
+  "dataset": "GOT",
+  "model": "aisformer",
+  "seed": 2
+ },
+ {
+  "dataset": "GOT",
+  "model": "stmgcn",
+  "seed": 2
+ },
+ {
+  "dataset": "GOT",
+  "model": "gstgan",
+  "seed": 2
+ },
+ {
+  "dataset": "GOT",
+  "model": "dgcntf",
+  "seed": 2
+ },
+ {
+  "dataset": "KIB",
+  "model": "mstformer",
+  "seed": 2
+ },
+ {
+  "dataset": "KIB",
+  "model": "aisformer",
+  "seed": 2
+ },
+ {
+  "dataset": "KIB",
+  "model": "stmgcn",
+  "seed": 2
+ },
+ {
+  "dataset": "KIB",
+  "model": "gstgan",
+  "seed": 2
+ },
+ {
+  "dataset": "KIB",
+  "model": "dgcntf",
+  "seed": 2
+ },
+ {
+  "dataset": "RWA",
+  "model": "mstformer",
+  "seed": 2
+ },
+ {
+  "dataset": "RWA",
+  "model": "aisformer",
+  "seed": 2
+ },
+ {
+  "dataset": "RWA",
+  "model": "stmgcn",
+  "seed": 2
+ },
+ {
+  "dataset": "RWA",
+  "model": "gstgan",
+  "seed": 2
+ },
+ {
+  "dataset": "RWA",
+  "model": "dgcntf",
+  "seed": 2
+ },
+ {
+  "dataset": "ESB",
+  "model": "mstformer",
+  "seed": 2
+ },
+ {
+  "dataset": "ESB",
+  "model": "aisformer",
+  "seed": 2
+ },
+ {
+  "dataset": "ESB",
+  "model": "stmgcn",
+  "seed": 2
+ },
+ {
+  "dataset": "ESB",
+  "model": "gstgan",
+  "seed": 2
+ },
+ {
+  "dataset": "ESB",
+  "model": "dgcntf",
+  "seed": 2
+ },
+ {
+  "dataset": "ORN",
+  "model": "sstgcnn",
+  "seed": 2
+ },
+ {
+  "dataset": "GOT",
+  "model": "sstgcnn",
+  "seed": 2
+ },
+ {
+  "dataset": "KIB",
+  "model": "sstgcnn",
+  "seed": 2
+ },
+ {
+  "dataset": "RWA",
+  "model": "sstgcnn",
+  "seed": 2
+ },
+ {
+  "dataset": "ESB",
+  "model": "sstgcnn",
+  "seed": 2
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 2
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 2
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 2
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 2
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 2
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 2
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 2
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 2
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 2
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 2
+ }
+]

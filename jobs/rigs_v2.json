@@ -1,0 +1,1337 @@
+[
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.025",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.05",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.1",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.2",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 0,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 0,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "variant": "noint",
+  "seed": 0,
+  "overrides": []
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.025",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.05",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.1",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.2",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 0,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 0,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "variant": "noint",
+  "seed": 0,
+  "overrides": []
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.025",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.05",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.1",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.2",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 0,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 0,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "variant": "noint",
+  "seed": 0,
+  "overrides": []
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.025",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.05",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.1",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.2",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 0,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 0,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "variant": "noint",
+  "seed": 0,
+  "overrides": []
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.025",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.05",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.1",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.2",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 0,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 0,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "variant": "noint",
+  "seed": 0,
+  "overrides": []
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.025",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.05",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.1",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.2",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 1,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 1,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "variant": "noint",
+  "seed": 1,
+  "overrides": []
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.025",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.05",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.1",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.2",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 1,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 1,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "variant": "noint",
+  "seed": 1,
+  "overrides": []
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.025",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.05",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.1",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.2",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 1,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 1,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "variant": "noint",
+  "seed": 1,
+  "overrides": []
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.025",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.05",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.1",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.2",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 1,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 1,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "variant": "noint",
+  "seed": 1,
+  "overrides": []
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.025",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.05",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.1",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 1,
+  "overrides": [
+   "lambda_safe=0.2",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 1,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 1,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "variant": "noint",
+  "seed": 1,
+  "overrides": []
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.025",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.05",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.1",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.2",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 2,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 2,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "variant": "noint",
+  "seed": 2,
+  "overrides": []
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.025",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.05",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.1",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.2",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 2,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 2,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "variant": "noint",
+  "seed": 2,
+  "overrides": []
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.025",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.05",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.1",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.2",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 2,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 2,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "KIB",
+  "model": "rigs",
+  "variant": "noint",
+  "seed": 2,
+  "overrides": []
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.025",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.05",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.1",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.2",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 2,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 2,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "GOT",
+  "model": "rigs",
+  "variant": "noint",
+  "seed": 2,
+  "overrides": []
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.025",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.025",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.05",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.05",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.1",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.1",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "tag": "lam0.2",
+  "seed": 2,
+  "overrides": [
+   "lambda_safe=0.2",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "variant": "base",
+  "seed": 2,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "variant": "risk",
+  "seed": 2,
+  "overrides": [
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ORN",
+  "model": "rigs",
+  "variant": "noint",
+  "seed": 2,
+  "overrides": []
+ }
+]

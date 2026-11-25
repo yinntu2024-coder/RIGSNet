@@ -1,0 +1,41 @@
+\begin{table*}[t]
+\centering
+\caption{Validation sensitivity of the tuned settings (seed 0, $K=1$, ADE/FDE in m). RIGS-Net choices were fixed on the RWA and ESB validation splits (radius also on KIB) before any test evaluation; bold marks the setting used in the main experiments. The three radii differ by at most 0.08~m in ADE; $R=2$~nmi was retained. Baselines are reported in the main tables at their published learning rate (\textsuperscript{$\dagger$}); the other rows retrain them on the RIGS-Net learning-rate grid with all other settings unchanged; (d) gives DGCN-Transformer the constant-velocity offset output selected for RIGS-Net. -- : not run.}
+\label{tab:tuning_sensitivity}
+\footnotesize
+\setlength{\tabcolsep}{5pt}
+\begin{tabular}{lcccccc}
+\toprule
+& \multicolumn{2}{c}{RWA} & \multicolumn{2}{c}{ESB} & \multicolumn{2}{c}{KIB} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}\cmidrule(lr){6-7}
+Setting & ADE & FDE & ADE & FDE & ADE & FDE \\
+\midrule
+\multicolumn{7}{l}{\textit{(a) RIGS-Net: decoder output and learning rate} ($R=2$~nmi, $\lambda_{\mathrm{safe}}=0.05$)} \\
+Direct displacement, lr $10^{-3}$ & 7.62 & 13.85 & 7.77 & 15.50 & -- & -- \\
+Direct displacement, lr $3\times10^{-4}$ & 7.49 & 13.59 & 7.64 & 15.18 & -- & -- \\
+Offset from CV, lr $10^{-3}$ & 7.61 & 13.82 & 7.76 & 15.41 & -- & -- \\
+Offset from CV, lr $3\times10^{-4}$ & \textbf{7.29} & \textbf{13.21} & \textbf{7.61} & \textbf{15.06} & -- & -- \\
+\midrule
+\multicolumn{7}{l}{\textit{(b) RIGS-Net: candidate-neighbour radius $R$} (offset from CV, lr $3\times10^{-4}$, $\lambda_{\mathrm{safe}}=0$)} \\
+All vessels of the scene & 7.30 & 13.24 & 7.62 & 15.08 & 6.25 & 10.54 \\
+$R=2$~nmi & \textbf{7.28} & \textbf{13.22} & \textbf{7.59} & \textbf{15.04} & \textbf{6.18} & \textbf{10.45} \\
+$R=5$~nmi & 7.29 & 13.23 & 7.59 & 15.06 & 6.17 & 10.40 \\
+\midrule
+\multicolumn{7}{l}{\textit{(c) Baselines: learning rate} (published setting\textsuperscript{$\dagger$} vs.\ RIGS-Net grid)} \\
+AISFormer, lr $6\times10^{-4}$\textsuperscript{$\dagger$} & 10.30 & 17.56 & 10.27 & 19.01 & -- & -- \\
+AISFormer, lr $10^{-3}$ & 10.29 & 17.56 & 10.29 & 19.04 & -- & -- \\
+AISFormer, lr $3\times10^{-4}$ & 10.41 & 17.77 & 10.31 & 19.09 & -- & -- \\
+MSTFormer, lr $5\times10^{-6}$\textsuperscript{$\dagger$} & 8.73 & 16.31 & 9.49 & 19.84 & -- & -- \\
+MSTFormer, lr $10^{-3}$ & 8.92 & 16.55 & 15.78 & 39.36 & -- & -- \\
+MSTFormer, lr $3\times10^{-4}$ & 7.83 & 13.99 & 8.10 & 16.48 & -- & -- \\
+DGCN-Transformer, lr $10^{-3}$\textsuperscript{$\dagger$} & 8.54 & 15.76 & 8.98 & 18.12 & -- & -- \\
+DGCN-Transformer, lr $3\times10^{-4}$ & 8.55 & 15.63 & 8.42 & 16.81 & -- & -- \\
+\midrule
+\multicolumn{7}{l}{\textit{(d) Baseline with the RIGS-Net output parameterization} (offset from CV)} \\
+DGCN-Transformer + CV offset, lr $10^{-3}$ & 8.22 & 15.02 & 8.93 & 18.17 & -- & -- \\
+DGCN-Transformer + CV offset, lr $3\times10^{-4}$ & 7.99 & 14.49 & 8.39 & 16.69 & -- & -- \\
+\midrule
+Constant velocity (reference) & 9.17 & 17.09 & 10.11 & 20.98 & -- & -- \\
+\bottomrule
+\end{tabular}
+\end{table*}

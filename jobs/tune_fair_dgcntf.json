@@ -1,0 +1,38 @@
+[
+ {
+  "dataset": "RWA",
+  "model": "dgcntf",
+  "tag": "cv-lr0.001",
+  "overrides": [
+   "out_mode=cv",
+   "lr=0.001"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "dgcntf",
+  "tag": "cv-lr0.0003",
+  "overrides": [
+   "out_mode=cv",
+   "lr=0.0003"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "dgcntf",
+  "tag": "cv-lr0.001",
+  "overrides": [
+   "out_mode=cv",
+   "lr=0.001"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "dgcntf",
+  "tag": "cv-lr0.0003",
+  "overrides": [
+   "out_mode=cv",
+   "lr=0.0003"
+  ]
+ }
+]

@@ -1,0 +1,170 @@
+[
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "direct-lr0.001",
+  "overrides": [
+   "out_mode=direct",
+   "lr=0.001"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "direct-lr0.0003",
+  "overrides": [
+   "out_mode=direct",
+   "lr=0.0003"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "cv-lr0.001",
+  "overrides": [
+   "out_mode=cv",
+   "lr=0.001"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "tag": "cv-lr0.0003",
+  "overrides": [
+   "out_mode=cv",
+   "lr=0.0003"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "aisformer",
+  "tag": "lr0.001",
+  "overrides": [
+   "lr=0.001"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "aisformer",
+  "tag": "lr0.0003",
+  "overrides": [
+   "lr=0.0003"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "mstformer",
+  "tag": "lr0.001",
+  "overrides": [
+   "lr=0.001"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "mstformer",
+  "tag": "lr0.0003",
+  "overrides": [
+   "lr=0.0003"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "dgcntf",
+  "tag": "lr0.001",
+  "overrides": [
+   "lr=0.001"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "dgcntf",
+  "tag": "lr0.0003",
+  "overrides": [
+   "lr=0.0003"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "direct-lr0.001",
+  "overrides": [
+   "out_mode=direct",
+   "lr=0.001"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "direct-lr0.0003",
+  "overrides": [
+   "out_mode=direct",
+   "lr=0.0003"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "cv-lr0.001",
+  "overrides": [
+   "out_mode=cv",
+   "lr=0.001"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "tag": "cv-lr0.0003",
+  "overrides": [
+   "out_mode=cv",
+   "lr=0.0003"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "aisformer",
+  "tag": "lr0.001",
+  "overrides": [
+   "lr=0.001"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "aisformer",
+  "tag": "lr0.0003",
+  "overrides": [
+   "lr=0.0003"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "mstformer",
+  "tag": "lr0.001",
+  "overrides": [
+   "lr=0.001"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "mstformer",
+  "tag": "lr0.0003",
+  "overrides": [
+   "lr=0.0003"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "dgcntf",
+  "tag": "lr0.001",
+  "overrides": [
+   "lr=0.001"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "dgcntf",
+  "tag": "lr0.0003",
+  "overrides": [
+   "lr=0.0003"
+  ]
+ }
+]

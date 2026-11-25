@@ -1,0 +1,94 @@
+[
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "variant": "noint",
+  "tag": "dev",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.0"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "variant": "noint",
+  "tag": "dev",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.0"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "variant": "full",
+  "tag": "dev-v2",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.0",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "variant": "full",
+  "tag": "dev-v2",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.0",
+   "msg_mode=edge",
+   "null_slot=True",
+   "cpa_feat=True"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "variant": "full",
+  "tag": "dev-edge",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.0",
+   "msg_mode=edge"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "variant": "full",
+  "tag": "dev-edge",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.0",
+   "msg_mode=edge"
+  ]
+ },
+ {
+  "dataset": "RWA",
+  "model": "rigs",
+  "variant": "full",
+  "tag": "dev-edgenull",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.0",
+   "msg_mode=edge",
+   "null_slot=True"
+  ]
+ },
+ {
+  "dataset": "ESB",
+  "model": "rigs",
+  "variant": "full",
+  "tag": "dev-edgenull",
+  "seed": 0,
+  "overrides": [
+   "lambda_safe=0.0",
+   "msg_mode=edge",
+   "null_slot=True"
+  ]
+ }
+]
